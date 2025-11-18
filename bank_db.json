@@ -1,0 +1,13 @@
+{
+    "users": {
+        "CHUKS": {
+            "password": "chuks",
+            "account_no": "100000",
+            "balance": 150.0,
+            "history": [
+                "2025-11-17 15:57:48 | Deposited: 200.0",
+                "2025-11-17 15:58:21 | Withdrawn: 50.0"
+            ]
+        }
+    }
+}
